@@ -11,5 +11,7 @@
   "license": "GPL-2.0",
   "dependencies": {
     "keyboardjs": "^2.2.0"
-  }
+  },
+  "repository": { "type": "git", "url": "https://github.com/onbjerg/react-key.git" },
+  "bugs": { "url": "https://github.com/onbjerg/react-key/issues" }
 }
