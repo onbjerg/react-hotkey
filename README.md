@@ -1,4 +1,4 @@
-# react-hotkey
+# react-key
 
 Simple hotkeys mixin for React components.
 
