@@ -6,12 +6,12 @@ Simple hotkeys mixin for React components.
 
 ```js
 var React = require('react')
-var hotkey = require('react-hotkey')
+var hotkeys = require('react-key')
 
 var Component = React.createClass({
   // Simply add the mixin and you will have
   // access to ``this.bindKey(combo, fn)``.
-  mixins: [hotkey],
+  mixins: [hotkeys],
 
   // ProTip(tm): Bind your keys in ``componentWillMount``.
   // They are automagically removed when the component is unmounted.

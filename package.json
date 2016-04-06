@@ -1,5 +1,5 @@
 {
-  "name": "react-hotkey",
+  "name": "react-key",
   "version": "1.0.0",
   "description": "Simple hotkeys mixin for React",
   "main": "index.js",
