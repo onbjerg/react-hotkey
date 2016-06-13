@@ -2,12 +2,12 @@
 
 > **NOTE** For higher order components, check the ``next`` branch, or simply install the package with
 >
->     npm i --save react-hotkey@next
+>     npm i --save react-key@next
 >
 
 Simple hotkeys mixin for React components.
 
-    npm i --save react-hotkey
+    npm i --save react-key
 
 ```js
 var React = require('react')
