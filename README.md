@@ -2,7 +2,7 @@
 
 Simple hotkeys for React components.
 
-    npm i --save react-hotkey
+    npm i --save react-key@next
 
 
 #### Higher-Order Component
