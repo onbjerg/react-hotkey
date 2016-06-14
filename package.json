@@ -1,6 +1,6 @@
 {
   "name": "react-key",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Simple hotkeys mixin for React",
   "main": "lib/index.js",
   "scripts": {
